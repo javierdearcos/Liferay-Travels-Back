@@ -1,6 +1,6 @@
 # Liferay Travels
 
-Liferay Workspace with the backend for the Liferay Symposium Spain 2020 Workshop: Building a SPA to squeeze Headless APIs.
+Liferay Workspace with the backend for the Liferay Symposium Spain 2020 and DEVCON 2021 Workshop: Building a SPA with Liferay's Headless APIs.
 
 To build the front-end we will build a SPA in React following the steps in the [Liferay Travels Frontend](https://github.com/LuismiBarcos/Liferay-Travels-Frontend) repository.
 
